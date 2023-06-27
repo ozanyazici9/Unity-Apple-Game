@@ -1,0 +1,22 @@
+﻿{
+  "BackgroundImageAbsolutePath": "c:\\users\\ozany\\appdata\\local\\microsoft\\visualstudio\\17.0_7ca3f56a\\extensions\\vhaeqsb2.3pv\\Images\\background.png",
+  "BackgroundImagesDirectoryAbsolutePath": "c:\\users\\ozany\\appdata\\local\\microsoft\\visualstudio\\17.0_7ca3f56a\\extensions\\vhaeqsb2.3pv\\Images",
+  "ExpandToIDE": false,
+  "Extensions": ".png, .jpg, .gif, .bmp",
+  "ImageBackgroundType": 0,
+  "ImageFadeAnimationInterval": "PT5S",
+  "ImageStretch": 0,
+  "IsLimitToMainlyEditorWindow": false,
+  "LoopSlideshow": true,
+  "MaxHeight": 0,
+  "MaxWidth": 0,
+  "Opacity": 0.35,
+  "PositionHorizon": 1,
+  "PositionVertical": 1,
+  "ShuffleSlideshow": false,
+  "SoftEdgeX": 0,
+  "SoftEdgeY": 0,
+  "UpdateImageInterval": "PT1M",
+  "ViewBoxPointX": 0,
+  "ViewBoxPointY": 0
+}
